@@ -148,7 +148,7 @@ This will return list of users . you have print all user one by in the html page
     zk.  JavaScript Cookies
 
 
-* ### Practice Programs
+* ### Practice Programs ( DAY-24 to DAY-30 )
 
     a. Create a program to check whether the string is an palindrom or not ?
 
@@ -159,4 +159,6 @@ This will return list of users . you have print all user one by in the html page
     d. sort the array 
 
     e. find avg. ?
+    
+    keep learning
     
